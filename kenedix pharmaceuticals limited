@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenedix Pharmaceuticals Limited</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Kenedix Pharmaceuticals Limited</h1>
+        <nav>
+            <a href="#products">Products</a>
+            <a href="#about">About Us</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <div class="product">
+            <img src="tablet.jpg" alt="Tablets">
+            <p>Explore our wide range of tablets for various medical conditions.</p>
+        </div>
+        <div class="product">
+            <img src="syrup.jpg" alt="Syrups">
+            <p>High-quality syrups to cater to different age groups and needs.</p>
+        </div>
+        <div class="product">
+            <img src="injection.jpg" alt="Injections">
+            <p>Safe and effective injections for medical treatments.</p>
+        </div>
+        <!-- Add more product sections as needed -->
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Kenedix Pharmaceuticals Limited is dedicated to providing top-quality pharmaceutical products including vitamin supplements and vaccines to improve health and well-being.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For inquiries or orders, please contact us at info@kenedixpharma.com or call +1-123-456-7890.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2022 Kenedix Pharmaceuticals Limited. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
